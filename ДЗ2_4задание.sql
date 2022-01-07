@@ -1,0 +1,1 @@
+C:\Users\pavel>mysqldump mysql help_keyword --where="true limit 100" > 2.sql
